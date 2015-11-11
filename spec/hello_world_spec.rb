@@ -8,3 +8,4 @@ describe "Hello World" do
   end
   puts "Hello World!"
 end
+puts "Welcome to Tic Tac Toe!"
